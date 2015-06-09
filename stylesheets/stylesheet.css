@@ -85,12 +85,12 @@ header h2 {
 }
 
 #container {
-  min-height: 620px;
+  min-height: 595px;
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 .inner {
-  width: 650px;
+  width: 620px;
   margin: 0 auto;
 }
 
@@ -106,7 +106,7 @@ a.button {
   display: block;
   float: left;
   width: 22%;
-  padding: 8px 8px 8px 8px;
+  padding: 4px 8px 4px 8px;
   margin-right: 0px;
   font-size: 15px;
   font-weight: bold;
