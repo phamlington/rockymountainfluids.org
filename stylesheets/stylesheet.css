@@ -104,14 +104,14 @@ header h2 {
 
 a.button {
   display: block;
-  float: left;
+  float: center;
   width: 25%;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
   font-size: 15px;
   font-weight: bold;
   line-height: 25px;
-  color: #0099FF;
+  color: #FF9900;
   background: #99CCFF; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
