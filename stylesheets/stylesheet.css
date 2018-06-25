@@ -104,8 +104,8 @@ header h2 {
 
 a.button {
   display: block;
-  float: left;
-  width: 18.5%;
+  float: center;
+  width: 18%;
   padding: 6px 3px 6px 3px;
   margin-right: 0px;
   font-size: 15px;
