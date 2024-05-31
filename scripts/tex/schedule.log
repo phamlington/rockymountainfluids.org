@@ -1,0 +1,17 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdftex 2020.4.7)  5 AUG 2022 14:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**schedule.tex
+(./schedule.tex
+./schedule.tex:1: Undefined control sequence.
+l.1 \documentclass
+                  []{article}
+? 
+./schedule.tex:1: Emergency stop.
+l.1 \documentclass
+                  []{article}
+End of file on the terminal!
+
+./schedule.tex:1:  ==> Fatal error occurred, no output PDF file produced!
